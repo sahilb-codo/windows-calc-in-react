@@ -6,5 +6,5 @@ const StyledDiv = styled.div`
 	flex-grow: 1;
 `;
 export default function Home() {
-	return <StyledDiv></StyledDiv>;
+	return <StyledDiv>Welcome to home page</StyledDiv>;
 }
